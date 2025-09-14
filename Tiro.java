@@ -70,6 +70,7 @@ public class Tiro {
 		return imagem;
 	}
 	
+	// estudo do git
 	
 	
 }//class
